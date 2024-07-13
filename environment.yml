@@ -10,10 +10,12 @@ dependencies:
   - matplotlib
   - seaborn
   - plotly
-  - pycaret
   - mlflow
   - pyngrok
   - pip
   - pip:
       - ngrok
       - inflect
+      - pycaret[full]
+      - interpret-community
+

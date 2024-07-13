@@ -1,0 +1,46 @@
+admin_wards = [
+    'Abrantes', 'Acacias', 'Adelfas', 'Aeropuerto', 'Alameda de Osuna', 'Almagro', 'Almenara', 'Almendrales',
+    'Aluche', 'Amposta', 'Apóstol Santiago', 'Arapiles', 'Aravaca', 'Arcos', 'Argüelles', 'Atalaya', 'Atocha',
+    'Bellas Vistas', 'Berruguete', 'Buenavista', 'Butarque', 'Campamento', 'Canillas', 'Canillejas',
+    'Casa de Campo', 'Casco Histórico de Barajas', 'Casco Histórico de Vallecas', 'Casco Histórico de Vicálvaro',
+    'Castellana', 'Castilla', 'Castillejos', 'Chopera', 'Ciudad Jardín', 'Ciudad Universitaria', 'Colina',
+    'Comillas', 'Concepción', 'Corralejos', 'Cortes', 'Costillares', 'Cuatro Caminos', 'Cuatro Vientos',
+    'Delicias', 'El Cañaveral', 'El Goloso', 'El Pardo', 'El Plantío', 'El Viso', 'Embajadores',
+    'Ensanche de Vallecas', 'Entrevías', 'Estrella', 'Fontarrón', 'Fuente del Berro', 'Fuentelarreina',
+    'Gaztambide', 'Goya', 'Guindalera', 'Hellín', 'Hispanoamérica', 'Horcajo', 'Ibiza', 'Imperial',
+    'Jerónimos', 'Justicia', 'La Paz', 'Las Águilas', 'Legazpi', 'Lista', 'Los Cármenes', 'Los Rosales',
+    'Los Ángeles', 'Lucero', 'Marroquina', 'Media Legua', 'Mirasierra', 'Moscardó', 'Niño Jesús',
+    'Nueva España', 'Numancia', 'Opañel', 'Orcasitas', 'Orcasur', 'Pacífico', 'Palacio', 'Palomas',
+    'Palomeras Bajas', 'Palomeras Sureste', 'Palos de Moguer', 'Pavones', 'Peñagrande', 'Pilar', 'Pinar del Rey',
+    'Piovera', 'Portazgo', 'Pradolongo', 'Prosperidad', 'Pueblo Nuevo', 'Puerta Bonita', 'Puerta del Ángel',
+    'Quintana', 'Recoletos', 'Rejas', 'Rosas', 'Ríos Rosas', 'Salvador', 'San Cristóbal', 'San Diego',
+    'San Fermín', 'San Isidro', 'San Juan Bautista', 'San Pascual', 'Santa Eugenia', 'Simancas', 'Sol',
+    'Timón', 'Trafalgar', 'Universidad', 'Valdeacederas', 'Valdebernardo', 'Valdefuentes', 'Valdemarín',
+    'Valderrivas', 'Valdezarza', 'Vallehermoso', 'Valverde', 'Ventas', 'Villaverde Alto', 'Vinateros',
+    'Vista Alegre', 'Zofío'
+]
+
+
+district_neighborhoods = {
+    'centro': ['Palacio', 'Embajadores', 'Cortes', 'Justicia', 'Universidad', 'Sol'],
+    'arganzuela': ['Imperial', 'Acacias', 'Chopera', 'Legazpi', 'Delicias', 'Palos de Moguer', 'Atocha'],
+    'retiro': ['Pacífico', 'Adelfas', 'Estrella', 'Ibiza', 'Los Jerónimos', 'Niño Jesús'],
+    'salamanca': ['Recoletos', 'Goya', 'Fuente del Berro', 'Guindalera', 'Lista', 'Castellana'],
+    'chamartin': ['El Viso', 'Prosperidad', 'Ciudad Jardín', 'Hispanoamérica', 'Nueva España', 'Castilla'],
+    'tetuan': ['Bellas Vistas', 'Cuatro Caminos', 'Castillejos', 'Almenara', 'Valdeacederas', 'Berruguete'],
+    'chamberi': ['Gaztambide', 'Arapiles', 'Trafalgar', 'Almagro', 'Ríos Rosas', 'Vallehermoso'],
+    'fuencarral': ['El Pardo', 'Fuentelarreina', 'Peñagrande', 'Pilar', 'La Paz', 'Valverde', 'Mirasierra', 'El Goloso'],
+    'moncloa': ['Casa de Campo', 'Argüelles', 'Ciudad Universitaria', 'Valdezarza', 'Valdemarín', 'El Plantío', 'Aravaca'],
+    'latina': ['Los Cármenes', 'Puerta del Ángel', 'Lucero', 'Aluche', 'Campamento', 'Cuatro Vientos', 'Las Águilas'],
+    'carabanchel': ['Comillas', 'Opañel', 'San Isidro', 'Vista Alegre', 'Puerta Bonita', 'Buenavista', 'Abrantes'],
+    'usera': ['Orcasitas', 'Orcasur', 'San Fermín', 'Almendrales', 'Moscardó', 'Zofío', 'Pradolongo'],
+    'puente-de-vallecas': ['Entrevías', 'San Diego', 'Palomeras Bajas', 'Palomeras Sureste', 'Portazgo', 'Numancia'],
+    'moratalaz': ['Pavones', 'Horcajo', 'Marroquina', 'Media Legua', 'Fontarrón', 'Vinateros'],
+    'ciudad lineal': ['Ventas', 'Pueblo Nuevo', 'Quintana', 'Concepción', 'San Pascual', 'San Juan Bautista', 'Colina', 'Atalaya', 'Costillares'],
+    'hortaleza': ['Palomas', 'Piovera', 'Canillas', 'Pinar del Rey', 'Apóstol Santiago', 'Valdefuentes'],
+    'villaverde': ['Villaverde Alto', 'San Cristóbal', 'Butarque', 'Los Rosales', 'Los Ángeles'],
+    'villa-de-vallecas': ['Casco Histórico de Vallecas', 'Santa Eugenia', 'Ensanche de Vallecas'],
+    'vicalvaro': ['Casco Histórico de Vicálvaro', 'Valdebernardo', 'Valderrivas', 'El Cañaveral'],
+    'san-blas': ['Simancas', 'Hellín', 'Amposta', 'Arcos', 'Rosas', 'Rejas', 'Canillejas', 'El Salvador'],
+    'barajas': ['Alameda de Osuna', 'Aeropuerto', 'Casco Histórico de Barajas', 'Timón', 'Corralejos']
+}

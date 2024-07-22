@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fdeb5333-d58a-411b-a143-27b69e72c9c0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/data/processed/scraped_data_cleaned_ER.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/processed/scraped_data_cleaned_ER.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/processed/scraped_data_cleaned_ER_w_cluster_column.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/processed/scraped_data_cleaned_ER_w_cluster_column.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/Modelling_Emanuela_additional_data_cleaning.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/Modelling_Emanuela_additional_data_cleaning.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/Modelling_Emanuela_clustering_unseen.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/Modelling_Emanuela_clustering_unseen.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/Modelling_Emanuela_regressions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/Modelling_Emanuela_regressions.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/Modelling_Emanuela_scraped_data_cleaning.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/Modelling_Emanuela_scraped_data_cleaning.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/logs.log" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/logs.log" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2jTgWT4yLnu3kB489XLBmL5HfQJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.15989.150" />
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-IU-241.15989.150" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fdeb5333-d58a-411b-a143-27b69e72c9c0" name="Changes" comment="" />
+      <created>1721416512120</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721416512120</updated>
+      <workItem from="1721416513525" duration="25000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
